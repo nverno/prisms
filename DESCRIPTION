@@ -1,0 +1,8 @@
+Package: prisms
+Title: Prep the prism data from segments
+Version: 0.0.0.9000
+Authors@R: "Noah Peart <noah.v.peart@gmail.com> [aut,cre]"
+Description: Just preppin the data.
+Depends: R (>= 3.2.3)
+License: WTFPL
+LazyData: true
